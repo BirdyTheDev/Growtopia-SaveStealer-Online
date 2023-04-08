@@ -1,3 +1,4 @@
+# https://discord.gg/ySx5pTKV5G Join For Help
 # Growtopi-SaveStealer-Online
 A Website To Manage And Create Save.dat Files
 # Images From Web
