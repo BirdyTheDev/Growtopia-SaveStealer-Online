@@ -9,7 +9,7 @@ A Website To Manage And Create Save.dat Files
 ![image](https://user-images.githubusercontent.com/128981901/230714337-0985ba3b-8f10-47a4-b97b-6e80b551d949.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # What Is This Project? 
-SaveStealer Is Modified To Work With Multiple Users, More Secure Data Saving, Better Decoder And Mainly Android Stealer Added.
+**SaveStealer Is Modified To Work With Multiple Users, More Secure Data Saving, Better Decoder And Mainly Android Stealer Added.**
 Original Repo: https://github.com/GrowtopiaNoobs/Save.dat-stealer-2 
 # To Do List
 - [ ] Add In Built Apk,Exe Builder.
